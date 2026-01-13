@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.*;
 public class OddEven {
     public static void main(String[] args) {
